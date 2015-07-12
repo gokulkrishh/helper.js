@@ -1,2 +1,3 @@
 # helper.js
-A helper library writting using vanillaJS
+
+*A helper library writting using vanillaJS*
